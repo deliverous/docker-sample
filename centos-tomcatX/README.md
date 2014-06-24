@@ -1,5 +1,4 @@
-docker-centos-tomcatX
-=====================
+##centos-tomcatX
 
 sample docker container with tomcat downloaded from apache mirror 
 
