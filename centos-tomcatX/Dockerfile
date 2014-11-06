@@ -17,4 +17,3 @@ RUN rm -rf /opt/tomcat/logs ;\
 EXPOSE 8080
 VOLUME ["/var/log/tomcat"]
 CMD chown root:root /var/log/tomcat; /opt/tomcat/bin/catalina.sh run
-
